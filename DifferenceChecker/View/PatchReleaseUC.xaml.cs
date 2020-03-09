@@ -12,6 +12,14 @@ using static DifferenceChecker.Helper.SendAppMsg;
 using Trafix.Client.Communication;
 using Trafix.Client.Data;
 using Trafix.CLRServerProxy;
+using System.Threading.Tasks;
+using System.Net.Http;
+using Octokit;
+using System.Net;
+using Newtonsoft.Json;
+using System.Text;
+using System.Web.Script.Serialization;
+using DifferenceChecker.BO;
 
 namespace DifferenceChecker.View
 {
@@ -21,7 +29,7 @@ namespace DifferenceChecker.View
         string basePath = System.Configuration.ConfigurationManager.AppSettings.Get("basePath");
 
         string dirDEMO = System.Configuration.ConfigurationManager.AppSettings.Get("dirDemo");
-        string dirQA = System.Configuration.ConfigurationManager.AppSettings.Get("dirQA");        
+        string dirQA = System.Configuration.ConfigurationManager.AppSettings.Get("dirQA");
         string dirUAT = System.Configuration.ConfigurationManager.AppSettings.Get("dirUAT");
         string dirProduction = System.Configuration.ConfigurationManager.AppSettings.Get("dirProduction");
         string QASettingsXML = "QAsettings.xml";
@@ -37,6 +45,9 @@ namespace DifferenceChecker.View
         {
             InitializeComponent();
 
+
+            Console.ReadLine();
+
             urlPath1.Text = basePath;
             workingDirectory.Text = System.Configuration.ConfigurationManager.AppSettings.Get("WorkingDir");
             additionalParams.Text = System.Configuration.ConfigurationManager.AppSettings.Get("AdditionalArgs");
@@ -47,8 +58,77 @@ namespace DifferenceChecker.View
             }
         }
 
+
+      
+
+
+        public static void ExecuteAsync()
+        {
+            try
+            {
+                string ownerName = "maltaftrafix";
+                string myRepoName = "GitToVS";                
+                var client = new GitHubClient(new ProductHeaderValue("GitToVS"));                
+                var getAllRepoRequest = client.Repository.Release.GetAll(ownerName, myRepoName);
+
+                var getAllCommitsRequest = client.Repository.Commit.GetAll(ownerName, myRepoName);
+
+
+
+                //List of releases
+                List<CommitBO.RootObject> commitBOList = new List<CommitBO.RootObject>();
+                
+
+                for (int i = 0; i < getAllCommitsRequest.Result.Count(); i++)
+                {
+                    string commit_JsonData = JsonConvert.SerializeObject(getAllCommitsRequest.Result[i]);
+                    CommitBO.RootObject commitBO = JsonConvert.DeserializeObject<CommitBO.RootObject>(commit_JsonData);
+                    commitBOList.Add(commitBO);
+                }
+
+
+                //List of releases
+                List<GitReleaseBO> releaseBOList = new List<GitReleaseBO>();
+
+                for (int i = 0; i < getAllRepoRequest.Result.Count(); i++)
+                {                    
+                    string jsonData = JsonConvert.SerializeObject(getAllRepoRequest.Result[i]);                    
+                    GitReleaseBO gitReleaseBO = JsonConvert.DeserializeObject<GitReleaseBO>(jsonData);
+                    releaseBOList.Add(gitReleaseBO);
+                }
+
+
+                //var abcd = releaseBOList.OrderBy(x => x.TagName).ToList();
+
+
+                Console.WriteLine("end");
+
+            }
+            catch (Exception ex)
+            {
+
+            }
+
+
+            // var github = new GitHubClient(new ProductHeaderValue("MyAmazingApp"));
+            // var user = await github.User.Get("half-ogre");
+            //string __Message = (user.Followers + " folks love the half ogre!");
+
+
+            //HttpClient client = new HttpClient();
+            //client.BaseAddress = new Uri("https://api.github.com");
+            //var token = "<token>";
+
+            //client.DefaultRequestHeaders.UserAgent.Add(new System.Net.Http.Headers.ProductInfoHeaderValue("AppName", "1.0"));
+            //client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
+            //client.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Token", token);
+
+            //var response = await client.GetAsync("/user");
+        }
+
         private void Transfer_Click(object sender, RoutedEventArgs e)
         {
+            ExecuteAsync();
             Dictionary<string, string> defaultPaths = new Dictionary<string, string>();
             bool isOverwrite = chkboxOverwrite.IsChecked == true ? true : false;
             if (chkboxQA.IsChecked == true)

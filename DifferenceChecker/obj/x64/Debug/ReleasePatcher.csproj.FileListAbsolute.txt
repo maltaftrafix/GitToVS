@@ -225,3 +225,10 @@ D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\obj\x64\Debug\Release
 D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\obj\x64\Debug\ReleasePatcher.csproj.CopyComplete
 D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\obj\x64\Debug\DifferenceChecker.exe
 D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\obj\x64\Debug\DifferenceChecker.pdb
+D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\obj\x64\Debug\ReleasePatcher.csprojAssemblyReference.cache
+D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\bin\x64\Debug\RestEase.dll
+D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\bin\x64\Debug\RestEase.xml
+D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\bin\x64\Debug\Octokit.dll
+D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\bin\x64\Debug\Octokit.xml
