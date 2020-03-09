@@ -1,0 +1,22 @@
+﻿<SKControls:SKWindow x:Class="DifferenceChecker.TransferFiles"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:SKControls="clr-namespace:Trafix.Client.Controls;assembly=Trafix.Client.Controls"
+        xmlns:local="clr-namespace:DifferenceChecker"
+        xmlns:UC="clr-namespace:DifferenceChecker.View"                             
+        mc:Ignorable="d"
+        Title="TransferFiles" WindowState="Maximized" MinWidth="700" MinHeight="700">
+    <Grid>
+        <SKControls:SKDockLayoutManager x:Name="m_dockManager" Grid.Row="1" MDIMergeStyle="Never" ClosingBehavior="HideToClosedPanelsCollection">
+            <SKControls:SKLayoutGroup>
+                <SKControls:SKDocumentGroup x:Name="m_MsgsDocPanel" Caption="Server Transactions" AllowClose="False">
+                    <SKControls:SKDocumentPanel Caption="Release Patcher">
+                        <UC:PatchReleaseUC x:Name="PatchRelease" />
+                    </SKControls:SKDocumentPanel>
+                </SKControls:SKDocumentGroup>
+            </SKControls:SKLayoutGroup>
+        </SKControls:SKDockLayoutManager>
+    </Grid>
+</SKControls:SKWindow>

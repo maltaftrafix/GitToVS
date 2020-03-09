@@ -1,0 +1,483 @@
+
+[2020-03-05 15:39:07.305.921][0x00005f18][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 15:39:07.354.717][0x00005f18][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 15:39:07.380.588][0x000004a8][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:39:07.384.028][0x000004a8][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2560
+[2020-03-05 15:39:07.389.671][0x000004a8][Info][GENERAL] Force DIS_CONNECTED tcp://192.168.20.11:5547
+[2020-03-05 15:39:08.417.838][0x000004a8][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:39:08.419.145][0x000004a8][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2560
+[2020-03-05 15:39:08.421.196][0x000004a8][Info][GENERAL] Force DIS_CONNECTED tcp://192.168.20.11:5547
+[2020-03-05 15:39:09.421.947][0x000004a8][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:39:09.422.503][0x000004a8][Info][GENERAL] DIS_CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2560
+[2020-03-05 15:39:09.422.678][0x000004a8][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:39:09.423.479][0x000004a8][Info][GENERAL] CLOSED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2600
+[2020-03-05 15:39:10.423.972][0x000004a8][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:39:10.424.563][0x000004a8][Info][GENERAL] CLOSED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2560
+[2020-03-05 15:39:11.424.945][0x000004a8][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:39:11.425.508][0x000004a8][Info][GENERAL] CLOSED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2604
+[2020-03-05 15:39:12.426.000][0x000004a8][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:39:12.426.579][0x000004a8][Info][GENERAL] CLOSED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2604
+[2020-03-05 15:39:13.426.956][0x000004a8][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:39:13.427.508][0x000004a8][Info][GENERAL] CLOSED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2604
+[2020-03-05 15:39:14.428.390][0x000004a8][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:39:14.429.124][0x000004a8][Info][GENERAL] CLOSED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2604
+[2020-03-05 15:39:15.429.443][0x000004a8][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:41:19.193.880][0x00004890][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 15:41:19.801.160][0x00004890][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 15:41:19.815.941][0x00006694][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:41:20.821.287][0x00006694][Info][GENERAL] CLOSED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2572
+[2020-03-05 15:41:21.821.712][0x00006694][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:41:22.824.391][0x00006694][Info][GENERAL] CLOSED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2572
+[2020-03-05 15:41:23.824.903][0x00006694][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:41:24.826.491][0x00006694][Info][GENERAL] CLOSED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2588
+[2020-03-05 15:41:25.826.806][0x00006694][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:41:26.830.672][0x00006694][Info][GENERAL] CLOSED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2588
+[2020-03-05 15:41:27.831.894][0x00006694][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:42:29.688.039][0x00004e34][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 15:42:30.210.094][0x00004e34][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 15:42:30.224.312][0x00003040][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:42:30.227.392][0x00003040][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2568
+[2020-03-05 15:42:30.373.912][0x00003040][Debug][GENERAL] Reply count 1
+[2020-03-05 15:42:30.374.061][0x00003040][Debug][GENERAL] Reply count 0
+[2020-03-05 15:42:30.374.523][0x00004e34][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 15:43:48.194.709][0x00003040][Info][GENERAL] Ping sent
+[2020-03-05 15:43:48.194.985][0x00003040][Info][GENERAL] Ping recv
+[2020-03-05 15:43:48.455.303][0x00003040][Info][GENERAL] Pong recv
+[2020-03-05 15:43:48.466.642][0x00003040][Debug][GENERAL] Reply count 1
+[2020-03-05 15:43:48.466.773][0x00003040][Debug][GENERAL] Reply count 0
+[2020-03-05 15:44:35.225.353][0x00003040][Info][GENERAL] Ping recv
+[2020-03-05 15:45:57.075.614][0x00001f38][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 15:45:57.593.615][0x00001f38][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 15:45:57.608.286][0x00004f20][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:45:57.612.477][0x00004f20][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2596
+[2020-03-05 15:45:57.758.554][0x00004f20][Debug][GENERAL] Reply count 1
+[2020-03-05 15:45:57.758.874][0x00004f20][Debug][GENERAL] Reply count 0
+[2020-03-05 15:45:57.759.355][0x00001f38][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 15:46:06.587.649][0x00004f20][Debug][GENERAL] Reply count 1
+[2020-03-05 15:46:06.587.932][0x00004f20][Debug][GENERAL] Reply count 0
+[2020-03-05 15:46:53.337.652][0x00004f20][Info][GENERAL] Ping recv
+[2020-03-05 15:48:27.526.406][0x00005ef0][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 15:48:27.802.963][0x00005ef0][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 15:48:27.822.866][0x00003d64][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:48:27.826.979][0x00003d64][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2600
+[2020-03-05 15:48:27.976.919][0x00003d64][Debug][GENERAL] Reply count 1
+[2020-03-05 15:48:27.977.038][0x00003d64][Debug][GENERAL] Reply count 0
+[2020-03-05 15:48:27.977.448][0x00005ef0][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 15:48:32.332.995][0x00003d64][Debug][GENERAL] Reply count 1
+[2020-03-05 15:48:32.333.128][0x00003d64][Debug][GENERAL] Reply count 0
+[2020-03-05 15:48:59.890.535][0x00005ef0][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 15:48:59.930.039][0x00003d64][Debug][GENERAL] Reply count 1
+[2020-03-05 15:48:59.930.156][0x00003d64][Debug][GENERAL] Reply count 0
+[2020-03-05 15:49:05.321.073][0x00003d64][Debug][GENERAL] Reply count 1
+[2020-03-05 15:49:05.321.201][0x00003d64][Debug][GENERAL] Reply count 0
+[2020-03-05 15:54:13.664.007][0x00000c90][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 15:54:13.701.466][0x00000c90][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 15:54:13.716.498][0x00000c2c][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:54:13.729.500][0x00000c2c][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2560
+[2020-03-05 15:54:13.915.752][0x00000c2c][Debug][GENERAL] Reply count 1
+[2020-03-05 15:54:13.915.879][0x00000c2c][Debug][GENERAL] Reply count 0
+[2020-03-05 15:54:13.916.311][0x00000c90][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 15:54:15.436.960][0x00000c2c][Debug][GENERAL] Reply count 1
+[2020-03-05 15:54:15.437.103][0x00000c2c][Debug][GENERAL] Reply count 0
+[2020-03-05 15:59:39.297.825][0x0000639c][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 15:59:39.333.939][0x0000639c][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 15:59:39.349.716][0x00006350][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 15:59:39.353.011][0x00006350][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2564
+[2020-03-05 15:59:39.501.476][0x00006350][Debug][GENERAL] Reply count 1
+[2020-03-05 15:59:39.501.639][0x00006350][Debug][GENERAL] Reply count 0
+[2020-03-05 15:59:39.502.079][0x0000639c][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 15:59:39.534.312][0x00006350][Debug][GENERAL] Reply count 1
+[2020-03-05 15:59:39.534.583][0x00006350][Debug][GENERAL] Reply count 0
+[2020-03-05 16:40:27.800.076][0x000006dc][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:40:28.780.025][0x000006dc][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 16:40:28.804.244][0x00002db4][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 16:40:28.812.007][0x00002db4][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2536
+[2020-03-05 16:40:28.955.202][0x00002db4][Debug][GENERAL] Reply count 1
+[2020-03-05 16:40:28.955.481][0x00002db4][Debug][GENERAL] Reply count 0
+[2020-03-05 16:40:28.955.837][0x000006dc][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 16:40:37.041.122][0x00002db4][Debug][GENERAL] Reply count 1
+[2020-03-05 16:40:37.041.247][0x00002db4][Debug][GENERAL] Reply count 0
+[2020-03-05 16:40:47.744.709][0x000006dc][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:40:47.786.393][0x00002db4][Debug][GENERAL] Reply count 1
+[2020-03-05 16:40:47.786.514][0x00002db4][Debug][GENERAL] Reply count 0
+[2020-03-05 16:40:48.093.181][0x00002db4][Debug][GENERAL] Reply count 1
+[2020-03-05 16:40:48.093.319][0x00002db4][Debug][GENERAL] Reply count 0
+[2020-03-05 16:41:34.454.515][0x00002db4][Info][GENERAL] Ping recv
+[2020-03-05 16:50:39.337.740][0x000048e8][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:50:39.377.446][0x000048e8][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 16:50:39.391.628][0x00005114][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 16:50:39.394.941][0x00005114][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2588
+[2020-03-05 16:50:39.542.480][0x00005114][Debug][GENERAL] Reply count 1
+[2020-03-05 16:50:39.542.634][0x00005114][Debug][GENERAL] Reply count 0
+[2020-03-05 16:50:39.543.062][0x000048e8][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 16:50:39.660.284][0x00005114][Debug][GENERAL] Reply count 1
+[2020-03-05 16:50:39.660.407][0x00005114][Debug][GENERAL] Reply count 0
+[2020-03-05 16:50:40.170.467][0x000048e8][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:50:40.210.329][0x00005114][Debug][GENERAL] Reply count 1
+[2020-03-05 16:50:40.210.471][0x00005114][Debug][GENERAL] Reply count 0
+[2020-03-05 16:50:40.221.872][0x00005114][Debug][GENERAL] Reply count 1
+[2020-03-05 16:50:40.221.984][0x00005114][Debug][GENERAL] Reply count 0
+[2020-03-05 16:51:03.534.471][0x000048e8][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:51:05.694.211][0x00005114][Debug][GENERAL] Reply count 1
+[2020-03-05 16:51:05.694.335][0x00005114][Debug][GENERAL] Reply count 0
+[2020-03-05 16:51:06.913.295][0x00005114][Debug][GENERAL] Reply count 1
+[2020-03-05 16:51:06.913.439][0x00005114][Debug][GENERAL] Reply count 0
+[2020-03-05 16:51:10.712.528][0x000048e8][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:51:12.516.052][0x00005114][Debug][GENERAL] Reply count 1
+[2020-03-05 16:51:12.516.175][0x00005114][Debug][GENERAL] Reply count 0
+[2020-03-05 16:51:23.716.730][0x00005114][Debug][GENERAL] Reply count 1
+[2020-03-05 16:51:23.717.005][0x00005114][Debug][GENERAL] Reply count 0
+[2020-03-05 16:52:35.842.499][0x000029e4][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:52:35.880.750][0x000029e4][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 16:52:35.896.037][0x000042e8][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 16:52:35.898.956][0x000042e8][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2332
+[2020-03-05 16:52:36.049.832][0x000042e8][Debug][GENERAL] Reply count 1
+[2020-03-05 16:52:36.049.977][0x000042e8][Debug][GENERAL] Reply count 0
+[2020-03-05 16:52:36.050.518][0x000029e4][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 16:52:36.092.035][0x000042e8][Debug][GENERAL] Reply count 1
+[2020-03-05 16:52:36.092.142][0x000042e8][Debug][GENERAL] Reply count 0
+[2020-03-05 16:53:33.349.100][0x00002f20][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:53:33.391.250][0x00002f20][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 16:53:33.407.288][0x00004a8c][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 16:53:33.419.140][0x00004a8c][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2600
+[2020-03-05 16:53:33.559.929][0x00004a8c][Debug][GENERAL] Reply count 1
+[2020-03-05 16:53:33.560.055][0x00004a8c][Debug][GENERAL] Reply count 0
+[2020-03-05 16:53:33.560.399][0x00002f20][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 16:53:33.630.519][0x00004a8c][Debug][GENERAL] Reply count 1
+[2020-03-05 16:53:33.630.645][0x00004a8c][Debug][GENERAL] Reply count 0
+[2020-03-05 16:53:34.770.054][0x00002f20][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:53:34.802.650][0x00002f20][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 16:53:34.817.695][0x00005dc8][Info][GENERAL] I: connecting to server tcp://192.168.20.143:4545...
+[2020-03-05 16:53:34.819.190][0x00005dc8][Info][GENERAL] CONNECTED        = tcp://192.168.20.143:4545, My_FD = 0, Connected User FD   = 2732
+[2020-03-05 16:53:34.958.457][0x00005dc8][Debug][GENERAL] Reply count 1
+[2020-03-05 16:53:34.958.576][0x00005dc8][Debug][GENERAL] Reply count 0
+[2020-03-05 16:53:34.959.038][0x00002f20][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 16:53:35.168.816][0x00005dc8][Debug][GENERAL] Reply count 1
+[2020-03-05 16:53:35.168.936][0x00005dc8][Debug][GENERAL] Reply count 0
+[2020-03-05 16:55:30.249.818][0x00002f20][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:55:30.282.245][0x00002f20][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 16:55:30.297.173][0x00001ef4][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 16:55:30.298.682][0x00001ef4][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2708
+[2020-03-05 16:55:30.432.258][0x00001ef4][Debug][GENERAL] Reply count 1
+[2020-03-05 16:55:30.432.389][0x00001ef4][Debug][GENERAL] Reply count 0
+[2020-03-05 16:55:30.432.796][0x00002f20][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 16:55:30.441.236][0x00001ef4][Debug][GENERAL] Reply count 1
+[2020-03-05 16:55:30.441.357][0x00001ef4][Debug][GENERAL] Reply count 0
+[2020-03-05 16:55:32.656.485][0x00002f20][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:55:32.689.010][0x00002f20][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 16:55:32.706.175][0x00006354][Info][GENERAL] I: connecting to server tcp://192.168.20.143:4545...
+[2020-03-05 16:55:32.707.381][0x00006354][Info][GENERAL] CONNECTED        = tcp://192.168.20.143:4545, My_FD = 0, Connected User FD   = 2936
+[2020-03-05 16:55:32.845.702][0x00006354][Debug][GENERAL] Reply count 1
+[2020-03-05 16:55:32.845.836][0x00006354][Debug][GENERAL] Reply count 0
+[2020-03-05 16:55:32.846.269][0x00002f20][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 16:55:33.393.987][0x00006354][Debug][GENERAL] Reply count 1
+[2020-03-05 16:55:33.394.119][0x00006354][Debug][GENERAL] Reply count 0
+[2020-03-05 16:55:48.391.144][0x00002f20][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:55:48.424.097][0x00002f20][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 16:55:48.437.460][0x0000694c][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 16:55:48.447.853][0x0000694c][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 3024
+[2020-03-05 16:55:48.573.016][0x0000694c][Debug][GENERAL] Reply count 1
+[2020-03-05 16:55:48.573.318][0x0000694c][Debug][GENERAL] Reply count 0
+[2020-03-05 16:55:48.573.770][0x00002f20][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 16:55:48.581.450][0x0000694c][Debug][GENERAL] Reply count 1
+[2020-03-05 16:55:48.581.622][0x0000694c][Debug][GENERAL] Reply count 0
+[2020-03-05 16:55:49.877.313][0x00002f20][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:55:49.911.762][0x00002f20][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 16:55:49.927.261][0x00004360][Info][GENERAL] I: connecting to server tcp://192.168.20.143:4545...
+[2020-03-05 16:55:49.928.514][0x00004360][Info][GENERAL] CONNECTED        = tcp://192.168.20.143:4545, My_FD = 0, Connected User FD   = 2984
+[2020-03-05 16:55:50.061.801][0x00004360][Debug][GENERAL] Reply count 1
+[2020-03-05 16:55:50.061.931][0x00004360][Debug][GENERAL] Reply count 0
+[2020-03-05 16:55:50.062.288][0x00002f20][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 16:55:50.066.012][0x00004360][Debug][GENERAL] Reply count 1
+[2020-03-05 16:55:50.066.151][0x00004360][Debug][GENERAL] Reply count 0
+[2020-03-05 16:58:31.802.697][0x00002268][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:58:31.822.474][0x00002268][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 16:58:31.837.593][0x000038f4][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 16:58:31.840.409][0x000038f4][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2568
+[2020-03-05 16:58:31.986.152][0x000038f4][Debug][GENERAL] Reply count 1
+[2020-03-05 16:58:31.986.358][0x000038f4][Debug][GENERAL] Reply count 0
+[2020-03-05 16:58:31.986.957][0x00002268][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 16:58:32.005.686][0x000038f4][Debug][GENERAL] Reply count 1
+[2020-03-05 16:58:32.005.988][0x000038f4][Debug][GENERAL] Reply count 0
+[2020-03-05 16:58:32.193.965][0x00002268][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 16:58:32.226.649][0x00002268][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 16:58:32.241.275][0x00000178][Info][GENERAL] I: connecting to server tcp://192.168.20.143:4545...
+[2020-03-05 16:58:32.242.363][0x00000178][Info][GENERAL] CONNECTED        = tcp://192.168.20.143:4545, My_FD = 0, Connected User FD   = 2544
+[2020-03-05 16:58:32.378.810][0x00000178][Debug][GENERAL] Reply count 1
+[2020-03-05 16:58:32.378.938][0x00000178][Debug][GENERAL] Reply count 0
+[2020-03-05 16:58:32.379.264][0x00002268][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 16:58:32.390.210][0x00000178][Debug][GENERAL] Reply count 1
+[2020-03-05 16:58:32.390.399][0x00000178][Debug][GENERAL] Reply count 0
+[2020-03-05 17:02:34.677.837][0x00004dac][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:02:34.715.841][0x00004dac][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:02:34.731.088][0x000019d0][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 17:02:34.734.003][0x000019d0][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2600
+[2020-03-05 17:02:34.883.375][0x000019d0][Debug][GENERAL] Reply count 1
+[2020-03-05 17:02:34.883.541][0x000019d0][Debug][GENERAL] Reply count 0
+[2020-03-05 17:02:34.883.985][0x00004dac][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:02:34.905.761][0x000019d0][Debug][GENERAL] Reply count 1
+[2020-03-05 17:02:34.905.966][0x000019d0][Debug][GENERAL] Reply count 0
+[2020-03-05 17:02:35.092.366][0x00004dac][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:02:35.123.798][0x00004dac][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:02:35.136.184][0x000067cc][Info][GENERAL] I: connecting to server tcp://192.168.20.143:4545...
+[2020-03-05 17:02:35.137.406][0x000067cc][Info][GENERAL] CONNECTED        = tcp://192.168.20.143:4545, My_FD = 0, Connected User FD   = 2780
+[2020-03-05 17:02:35.270.225][0x000067cc][Debug][GENERAL] Reply count 1
+[2020-03-05 17:02:35.270.455][0x000067cc][Debug][GENERAL] Reply count 0
+[2020-03-05 17:02:35.270.779][0x00004dac][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:02:35.277.911][0x000067cc][Debug][GENERAL] Reply count 1
+[2020-03-05 17:02:35.278.043][0x000067cc][Debug][GENERAL] Reply count 0
+[2020-03-05 17:02:46.818.003][0x00004dac][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:02:46.850.238][0x00004dac][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:02:46.865.682][0x00004b3c][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 17:02:46.866.916][0x00004b3c][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2848
+[2020-03-05 17:02:47.001.861][0x00004b3c][Debug][GENERAL] Reply count 1
+[2020-03-05 17:02:47.002.002][0x00004b3c][Debug][GENERAL] Reply count 0
+[2020-03-05 17:02:47.002.427][0x00004dac][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:02:47.010.237][0x00004b3c][Debug][GENERAL] Reply count 1
+[2020-03-05 17:02:47.010.468][0x00004b3c][Debug][GENERAL] Reply count 0
+[2020-03-05 17:02:47.192.643][0x00004dac][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:02:47.225.305][0x00004dac][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:02:47.240.392][0x00005c34][Info][GENERAL] I: connecting to server tcp://192.168.20.143:4545...
+[2020-03-05 17:02:47.241.826][0x00005c34][Info][GENERAL] CONNECTED        = tcp://192.168.20.143:4545, My_FD = 0, Connected User FD   = 2936
+[2020-03-05 17:02:47.380.996][0x00005c34][Debug][GENERAL] Reply count 1
+[2020-03-05 17:02:47.381.733][0x00005c34][Debug][GENERAL] Reply count 0
+[2020-03-05 17:02:47.382.182][0x00004dac][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:02:47.389.849][0x00005c34][Debug][GENERAL] Reply count 1
+[2020-03-05 17:02:47.389.976][0x00005c34][Debug][GENERAL] Reply count 0
+[2020-03-05 17:05:25.178.382][0x00004dac][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:05:25.211.477][0x00004dac][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:05:25.227.344][0x00001e3c][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 17:05:25.229.706][0x00001e3c][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2944
+[2020-03-05 17:05:25.363.346][0x00001e3c][Debug][GENERAL] Reply count 1
+[2020-03-05 17:05:25.363.498][0x00001e3c][Debug][GENERAL] Reply count 0
+[2020-03-05 17:05:25.363.915][0x00004dac][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:05:25.373.104][0x00001e3c][Debug][GENERAL] Reply count 1
+[2020-03-05 17:05:25.373.398][0x00001e3c][Debug][GENERAL] Reply count 0
+[2020-03-05 17:12:30.918.696][0x00004b1c][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:12:30.955.771][0x00004b1c][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:12:30.971.718][0x00001c88][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 17:12:30.985.451][0x00001c88][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2588
+[2020-03-05 17:12:31.127.546][0x00001c88][Debug][GENERAL] Reply count 1
+[2020-03-05 17:12:31.127.835][0x00001c88][Debug][GENERAL] Reply count 0
+[2020-03-05 17:12:31.128.267][0x00004b1c][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:12:31.161.321][0x00001c88][Debug][GENERAL] Reply count 1
+[2020-03-05 17:12:31.161.588][0x00001c88][Debug][GENERAL] Reply count 0
+[2020-03-05 17:13:31.457.202][0x00004b1c][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:13:31.489.227][0x00004b1c][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:13:31.502.935][0x0000575c][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 17:13:31.504.802][0x0000575c][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2784
+[2020-03-05 17:13:31.638.270][0x0000575c][Debug][GENERAL] Reply count 1
+[2020-03-05 17:13:31.638.413][0x0000575c][Debug][GENERAL] Reply count 0
+[2020-03-05 17:13:31.638.797][0x00004b1c][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:13:31.645.479][0x0000575c][Debug][GENERAL] Reply count 1
+[2020-03-05 17:13:31.645.590][0x0000575c][Debug][GENERAL] Reply count 0
+[2020-03-05 17:13:37.257.398][0x00004b1c][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:13:37.289.153][0x00004b1c][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:13:37.303.763][0x00001a0c][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 17:13:37.304.833][0x00001a0c][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2876
+[2020-03-05 17:13:37.439.758][0x00001a0c][Debug][GENERAL] Reply count 1
+[2020-03-05 17:13:37.439.954][0x00001a0c][Debug][GENERAL] Reply count 0
+[2020-03-05 17:13:37.440.427][0x00004b1c][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:13:37.448.605][0x00001a0c][Debug][GENERAL] Reply count 1
+[2020-03-05 17:13:37.448.727][0x00001a0c][Debug][GENERAL] Reply count 0
+[2020-03-05 17:14:08.008.028][0x00004b1c][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:14:08.039.896][0x00004b1c][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:14:08.065.149][0x00006160][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 17:14:08.076.440][0x00006160][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2964
+[2020-03-05 17:14:08.200.556][0x00006160][Debug][GENERAL] Reply count 1
+[2020-03-05 17:14:08.200.684][0x00006160][Debug][GENERAL] Reply count 0
+[2020-03-05 17:14:08.201.078][0x00004b1c][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:14:08.208.614][0x00006160][Debug][GENERAL] Reply count 1
+[2020-03-05 17:14:08.208.910][0x00006160][Debug][GENERAL] Reply count 0
+[2020-03-05 17:14:59.642.391][0x00004b1c][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:14:59.675.333][0x00004b1c][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:14:59.689.771][0x00004648][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 17:14:59.691.805][0x00004648][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 3032
+[2020-03-05 17:14:59.825.613][0x00004648][Debug][GENERAL] Reply count 1
+[2020-03-05 17:14:59.825.730][0x00004648][Debug][GENERAL] Reply count 0
+[2020-03-05 17:14:59.826.052][0x00004b1c][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:14:59.834.127][0x00004648][Debug][GENERAL] Reply count 1
+[2020-03-05 17:14:59.834.365][0x00004648][Debug][GENERAL] Reply count 0
+[2020-03-05 17:42:32.217.009][0x00001094][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:42:32.254.358][0x00001094][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:42:32.271.334][0x00005eb4][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 17:42:32.274.831][0x00005eb4][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2624
+[2020-03-05 17:42:32.419.085][0x00005eb4][Debug][GENERAL] Reply count 1
+[2020-03-05 17:42:32.419.225][0x00005eb4][Debug][GENERAL] Reply count 0
+[2020-03-05 17:42:32.419.649][0x00001094][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:42:32.466.900][0x00005eb4][Debug][GENERAL] Reply count 1
+[2020-03-05 17:42:32.467.023][0x00005eb4][Debug][GENERAL] Reply count 0
+[2020-03-05 17:42:55.872.029][0x00001094][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:42:55.903.954][0x00001094][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:42:55.924.852][0x00003e78][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 17:42:55.925.949][0x00003e78][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2816
+[2020-03-05 17:42:56.063.397][0x00003e78][Debug][GENERAL] Reply count 1
+[2020-03-05 17:42:56.063.648][0x00003e78][Debug][GENERAL] Reply count 0
+[2020-03-05 17:42:56.064.135][0x00001094][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:42:56.071.327][0x00003e78][Debug][GENERAL] Reply count 1
+[2020-03-05 17:42:56.071.471][0x00003e78][Debug][GENERAL] Reply count 0
+[2020-03-05 17:43:28.533.171][0x00001094][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:43:28.566.630][0x00001094][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:43:28.581.867][0x00000ff0][Info][GENERAL] I: connecting to server tcp://192.168.20.143:4545...
+[2020-03-05 17:43:28.592.605][0x00000ff0][Info][GENERAL] CONNECTED        = tcp://192.168.20.143:4545, My_FD = 0, Connected User FD   = 2912
+[2020-03-05 17:43:28.720.104][0x00000ff0][Debug][GENERAL] Reply count 1
+[2020-03-05 17:43:28.720.246][0x00000ff0][Debug][GENERAL] Reply count 0
+[2020-03-05 17:43:28.720.657][0x00001094][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:43:28.751.727][0x00000ff0][Debug][GENERAL] Reply count 1
+[2020-03-05 17:43:28.751.863][0x00000ff0][Debug][GENERAL] Reply count 0
+[2020-03-05 17:44:01.427.452][0x00001094][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:44:01.462.151][0x00001094][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:44:01.476.978][0x00001ff8][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 17:44:01.491.311][0x00001ff8][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 2956
+[2020-03-05 17:44:01.612.709][0x00001ff8][Debug][GENERAL] Reply count 1
+[2020-03-05 17:44:01.612.830][0x00001ff8][Debug][GENERAL] Reply count 0
+[2020-03-05 17:44:01.613.211][0x00001094][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:44:01.620.537][0x00001ff8][Debug][GENERAL] Reply count 1
+[2020-03-05 17:44:01.620.688][0x00001ff8][Debug][GENERAL] Reply count 0
+[2020-03-05 17:44:02.587.690][0x00001094][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:44:02.620.227][0x00001094][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:44:02.632.858][0x00004738][Info][GENERAL] I: connecting to server tcp://192.168.20.143:4545...
+[2020-03-05 17:44:02.635.912][0x00004738][Info][GENERAL] CONNECTED        = tcp://192.168.20.143:4545, My_FD = 0, Connected User FD   = 3064
+[2020-03-05 17:44:02.770.256][0x00004738][Debug][GENERAL] Reply count 1
+[2020-03-05 17:44:02.770.431][0x00004738][Debug][GENERAL] Reply count 0
+[2020-03-05 17:44:02.770.773][0x00001094][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:44:02.779.730][0x00004738][Debug][GENERAL] Reply count 1
+[2020-03-05 17:44:02.779.875][0x00004738][Debug][GENERAL] Reply count 0
+[2020-03-05 17:44:21.134.930][0x00001094][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:44:21.167.791][0x00001094][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:44:21.181.811][0x00003858][Info][GENERAL] I: connecting to server tcp://192.168.20.11:5547...
+[2020-03-05 17:44:21.193.310][0x00003858][Info][GENERAL] CONNECTED        = tcp://192.168.20.11:5547, My_FD = 0, Connected User FD   = 3096
+[2020-03-05 17:44:21.317.067][0x00003858][Debug][GENERAL] Reply count 1
+[2020-03-05 17:44:21.317.196][0x00003858][Debug][GENERAL] Reply count 0
+[2020-03-05 17:44:21.317.632][0x00001094][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:44:21.325.793][0x00003858][Debug][GENERAL] Reply count 1
+[2020-03-05 17:44:21.325.915][0x00003858][Debug][GENERAL] Reply count 0
+[2020-03-05 17:44:21.518.318][0x00001094][Info][GENERAL] 
+
+
+ *************** App Started ********************
+[2020-03-05 17:44:21.550.813][0x00001094][Info][GENERAL] A cryptographic context with the key container: TrafixClient, has been acquired.
+[2020-03-05 17:44:21.564.795][0x000023f4][Info][GENERAL] I: connecting to server tcp://192.168.20.143:4545...
+[2020-03-05 17:44:21.578.385][0x000023f4][Info][GENERAL] CONNECTED        = tcp://192.168.20.143:4545, My_FD = 0, Connected User FD   = 3224
+[2020-03-05 17:44:21.702.616][0x000023f4][Debug][GENERAL] Reply count 1
+[2020-03-05 17:44:21.702.745][0x000023f4][Debug][GENERAL] Reply count 0
+[2020-03-05 17:44:21.703.156][0x00001094][Info][GENERAL] Gateway switching is enabled.
+[2020-03-05 17:44:21.707.370][0x000023f4][Debug][GENERAL] Reply count 1
+[2020-03-05 17:44:21.707.513][0x000023f4][Debug][GENERAL] Reply count 0

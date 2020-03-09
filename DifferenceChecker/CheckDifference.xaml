@@ -1,0 +1,39 @@
+﻿<SKControls:SKWindow x:Class="DifferenceChecker.CheckDifference"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:SKControls="clr-namespace:Trafix.Client.Controls;assembly=Trafix.Client.Controls"
+        xmlns:local="clr-namespace:DifferenceChecker"
+        xmlns:localDiff="clr-namespace:DifferenceChecker.View"
+        mc:Ignorable="d"
+        Title="CheckDifference" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Button x:Name="compare" Width="auto" Height="auto" Content="Compare" FontSize="50" Click="Compare_Click"></Button>
+        </Grid>
+        <Grid Grid.Row="1">
+            <SKControls:SKDockLayoutManager MDIMergeStyle="Never">
+                <SKControls:SKLayoutGroup Orientation="Horizontal">
+                    <SKControls:SKLayoutPanel  Caption="Old File" AllowClose="False" AllowHide="False">
+                        <localDiff:DifferencePanelUC x:Name="pnlOldFile">
+
+                        </localDiff:DifferencePanelUC>
+                    </SKControls:SKLayoutPanel>
+                    
+                    <SKControls:SKLayoutPanel Caption="New File" AllowClose="False" AllowHide="False">
+                        <localDiff:DifferencePanelUC x:Name="pnlNewFile" >
+
+                        </localDiff:DifferencePanelUC>
+                    </SKControls:SKLayoutPanel>
+                </SKControls:SKLayoutGroup>
+            </SKControls:SKDockLayoutManager>
+        </Grid>
+
+    </Grid>
+
+</SKControls:SKWindow>
