@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\MaazAltaf\source\repos\DifferenceChecker\DifferenceChecker\obj\x64\Debug\
+D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\obj\x64\Debug\
 DifferenceChecker
 none
 false
 DEBUG;TRACE
-C:\Users\MaazAltaf\source\repos\DifferenceChecker\DifferenceChecker\App.xaml
-51562149952
+D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\App.xaml
+2-831985700
 
-151033539789
-35883023735
-MainWindow.xaml;TransferFiles.xaml;View\CustomProgressBarUC.xaml;View\DifferencePanelUC.xaml;View\PatchReleaseUC.xaml;
+12-1839590318
+351426695660
+TransferFiles.xaml;View\PatchReleaseUC.xaml;
 
-True
+False
 

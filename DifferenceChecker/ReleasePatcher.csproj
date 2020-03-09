@@ -110,8 +110,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>D:\CodeBase\Trafix\Clients\ClientFramework\bin\x64\Debug\Trafix.Client.Communication.dll</HintPath>
     </Reference>
-    <Reference Include="Trafix.Client.Controls">
-      <HintPath>D:\CodeBase\Trafix\Clients\ClientFramework\bin\x64\Debug\Trafix.Client.Controls.dll</HintPath>
+    <Reference Include="Trafix.Client.Controls, Version=1.5.0.1026, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\CodeBase\Trafix\Clients\ClientFramework\bin\x64\Debug\Trafix.Client.Controls.dll</HintPath>
     </Reference>
     <Reference Include="Trafix.Client.Data">
       <HintPath>D:\CodeBase\Trafix\Clients\ClientFramework\bin\x64\Debug\Trafix.Client.Data.dll</HintPath>
@@ -152,36 +153,14 @@
     <Compile Include="TransferFiles.xaml.cs">
       <DependentUpon>TransferFiles.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\CustomProgressBarUC.xaml.cs">
-      <DependentUpon>CustomProgressBarUC.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="View\DifferencePanelUC.xaml.cs">
-      <DependentUpon>DifferencePanelUC.xaml</DependentUpon>
-    </Compile>
     <Compile Include="View\PatchReleaseUC.xaml.cs">
       <DependentUpon>PatchReleaseUC.xaml</DependentUpon>
     </Compile>
-    <Page Include="MainWindow.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="MainWindow.xaml.cs">
-      <DependentUpon>MainWindow.xaml</DependentUpon>
-      <SubType>Code</SubType>
-    </Compile>
     <Page Include="TransferFiles.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="View\CustomProgressBarUC.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="View\DifferencePanelUC.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

@@ -12,9 +12,9 @@ DEBUG;TRACE
 D:\Projects\GitRepo\maltaftrafix\GitToVS\DifferenceChecker\App.xaml
 51562149952
 
-111852188164
+151539442658
 351426695660
 MainWindow.xaml;TransferFiles.xaml;View\CustomProgressBarUC.xaml;View\DifferencePanelUC.xaml;View\PatchReleaseUC.xaml;
 
-False
+True
 
